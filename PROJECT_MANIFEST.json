@@ -1,0 +1,24 @@
+{
+  "project": "WIFI SENTINEL",
+  "version": "1.0.0",
+  "target_device": "Samsung Galaxy S10+",
+  "target_rom": "EternityROM v5.5 / Android 15 (best-effort compatibility)",
+  "files": [
+    ".gitignore",
+    "README.md",
+    "app/build.gradle.kts",
+    "app/src/main/AndroidManifest.xml",
+    "app/src/main/java/com/carter/wifisentinel/MainActivity.kt",
+    "app/src/main/java/com/carter/wifisentinel/data/WifiModels.kt",
+    "app/src/main/java/com/carter/wifisentinel/data/WifiScanner.kt",
+    "app/src/main/java/com/carter/wifisentinel/security/PassphraseGenerator.kt",
+    "app/src/main/java/com/carter/wifisentinel/ui/SentinelScreen.kt",
+    "app/src/main/java/com/carter/wifisentinel/ui/SentinelViewModel.kt",
+    "app/src/main/java/com/carter/wifisentinel/ui/theme/Theme.kt",
+    "app/src/test/java/com/carter/wifisentinel/PassphraseGeneratorTest.kt",
+    "app/src/test/java/com/carter/wifisentinel/WifiFormattingTest.kt",
+    "build.gradle.kts",
+    "gradle.properties",
+    "settings.gradle.kts"
+  ]
+}
